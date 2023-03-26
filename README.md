@@ -1,6 +1,7 @@
 # push_swap
 
-This is an algorithm project of 42. For any random non-repeating set of numbers, they need to be sorted from smallest to largest. 
+This is an algorithm project of 42.
+For any random non-repeating set of numbers, they need to be sorted from smallest to largest. 
 The alignment can only use the following rules:
 
 sa (swap a) : Swap the top two numbers in A
