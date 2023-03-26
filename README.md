@@ -5,6 +5,8 @@ This is an algorithm project of 42.
 
 For any random non-repeating set of numbers, they need to be sorted from smallest to largest. 
 
+![image](https://github.com/YYBer/push_swap/blob/main/push_swap.gif)
+
 The alignment can only use the following rules:
 
 sa (swap a) : Swap the top two numbers in A
