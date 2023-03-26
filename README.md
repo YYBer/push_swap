@@ -29,4 +29,7 @@ pa (push a) : Top number in B goes to top of A
 
 pb (push b) : Top number in A goes to top of B
 
+For 100 numbers，average 650 steps.
+For 500 numbers, average 5300-5400 steps.
+
 I wrote a post in honor of this favorite project of mine: https://medium.com/@YYBer/11449eb17752
