@@ -85,7 +85,7 @@ void	check_stack_top_is_sorted(t_stack **stack);
 void	check_stack_bottom_is_needed(t_stack **stack_a, t_stack **stack_b);
 
 /*8sort_size_big_3.c*/
-void	excute_max_or_expected_node(t_stack **stack_a, t_stack **stack_b);
+void	execute_max_or_expected_node(t_stack **stack_a, t_stack **stack_b);
 
 /*8sort_size_big.c*/
 void	sort_3(t_stack **stack_a, t_stack **stack_b);
