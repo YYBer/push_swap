@@ -92,7 +92,7 @@ static int	max_or_expected_node(t_stack **stack_a, t_stack **stack_b)
 	return (0);
 }
 
-void	excute_max_or_expected_node(t_stack **stack_a, t_stack **stack_b)
+void	execute_max_or_expected_node(t_stack **stack_a, t_stack **stack_b)
 {
 	if (max_or_expected_node(stack_a, stack_b) == 1)
 	{	
