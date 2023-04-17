@@ -76,7 +76,7 @@ void	optimize(t_stack **stack_a, t_stack **stack_b)
 			check_stack_top_is_sorted(stack_a);
 		}
 		else
-			excute_max_or_expected_node(stack_a, stack_b);
+			execute_max_or_expected_node(stack_a, stack_b);
 	}
 }
 
