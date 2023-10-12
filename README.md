@@ -36,3 +36,9 @@ For 100 numbers，average 650 steps.
 For 500 numbers, average 5300-5400 steps.
 
 I wrote a post in honor of this favorite project of mine: https://medium.com/@YYBer/my-one-month-push-swap-journey-explore-an-easily-understand-and-efficient-algorithm-11449eb17752
+
+----------------
+for checker.sh, you have to 
+chmod 777 checker_linux
+then
+./checker.sh
